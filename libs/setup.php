@@ -15,6 +15,11 @@ $config->set('viewsFolder', 'views/');
 //$config->set('dbpass', '');
 
 
+// $config->set('dbhost', 'viaduct.proxy.rlwy.net:53723');
+// $config->set('dbname', 'railway');
+// $config->set('dbuser', 'root');
+// $config->set('dbpass', 'beBBB6C2HH-B3C3A52FbdBbFad64BED2');
+
 $config->set('dbhost', 'viaduct.proxy.rlwy.net:53723');
 $config->set('dbname', 'railway');
 $config->set('dbuser', 'root');
